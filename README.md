@@ -56,4 +56,44 @@ Departamento de Desenvolvimento de Recursos: Encarregado de gerenciar as ativida
 
 Alinhada a essas informações e características operacionais da ONG, uma infraestrutura de rede de computadores que atenda às suas necessidades deve ser projetada de forma bem estruturada para garantir o seu funcionamento de maneira eficiente, segura e colaborativa, contribuindo assim para o sucesso de suas iniciativas de proteção e preservação do meio ambiente. 
 
+## PLANEJAMENTO DOS RECURSOS DE REDE 
+
+ Cenário: a infraestrutura de rede de computadores será composta pela matriz localizada em Belo Horizonte e que se conecta as outras 4 filiais, localizadas em Uberlândia, Juiz de Fora, Governador Valadares e Montes Claros.  
+
+### Matriz (Belo Horizonte):
+
+- Departamento Administrativo e Financeiro; 
+- Departamento de Desenvolvimento de Recursos; 
+- Departamento Jurídico; 
+- Departamento de Equipes de Campo e Especialistas Técnicos. 
+
+### Filial Triângulo Mineiro e Alto Paranaíba (Uberlândia):
+
+- Coordenador Regional. 
+- Equipe de Campo e Especialistas Técnicos. 
+- Departamento de Comunicação de Ocorrências Ambientais. 
+- Suporte Administrativo. 
+
+### Filial Zona da Mata (Juiz de Fora): 
+
+- Coordenador Regional. 
+- Equipe de Campo e Especialistas Técnicos. 
+- Departamento de Comunicação de Ocorrências Ambientais. 
+- Suporte Administrativo. 
+
+ ### Filial Vale do Rio Doce (Governador Valadares): 
+
+- Coordenador Regional. 
+- Equipe de Campo e Especialistas Técnicos. 
+- Departamento de Comunicação de Ocorrências Ambientais. 
+- Suporte Administrativo. 
+
+### Filial Norte e Nororeste de Minas (Montes Claros): 
+
+- Coordenador Regional. 
+- Equipe de Campo e Especialistas Técnicos. 
+- Departamento de Comunicação de Ocorrências Ambientais. 
+- Suporte Administrativo.
+
+
 
