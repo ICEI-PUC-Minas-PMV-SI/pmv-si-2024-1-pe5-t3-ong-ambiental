@@ -20,7 +20,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Alexandre Teixeira
 
-### Tema
+## Tema
 
 O grupo optou pelo desenvolvimento de uma infraestrutura de rede de computadores para atender a uma ONG de ocorrências ambientais que atende o estado de Minas Gerais contendo aproximadamente 130 colaboradores.   
 
