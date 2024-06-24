@@ -8,12 +8,12 @@
 
 ## Integrantes
 
-*Ana Maria Alves Onerio 
-*Bárbara Bruna D'Áustole Gelape 
-*Geocacio Viviano Nascimento de Souza 
-*João Pedro Madeira Cristino 
-*João Victor Dias Lopes 
-*Lucas Vinicius Oliveira Mendes
+* Ana Maria Alves Onerio
+* Bárbara Bruna D'Áustole Gelape 
+* Geocacio Viviano Nascimento de Souza 
+* João Pedro Madeira Cristino 
+* João Victor Dias Lopes 
+* Lucas Vinicius Oliveira Mendes
 
 
 ## Orientador
